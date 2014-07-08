@@ -10,6 +10,15 @@ Python libraries.
 It's also an attempt to let me tweak the behaviour of todo.txt to suit my own
 preferences.
 
+## Libraries of interest
+
+* [click](http://click.pocoo.org/)
+* [pyrsistent](http://pyrsistent.readthedocs.org/en/latest/)
+* [effect](https://github.com/radix/effect)
+* [toolz](http://toolz.readthedocs.org/en/latest/)
+* [parsley](http://parsley.readthedocs.org/en/latest/)
+
+
 ## License
 
 Copyright 2014 Jonathan M. Lange

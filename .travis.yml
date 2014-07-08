@@ -1,0 +1,14 @@
+language: python
+python:
+    - "2.7"
+    - "2.6"
+    - "3.4"
+    - "pypy"
+install:
+    - pip install -r dev-requirements.txt
+    - pip install six
+    - pip install discover
+script:
+    - make lint
+    - python -mtesttools.run discover --list
+    - python -mtesttools.run discover
