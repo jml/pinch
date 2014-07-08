@@ -1,0 +1,5 @@
+Parsley
+pyrsistent
+click
+toolz
+effect
